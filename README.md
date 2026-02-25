@@ -1,3 +1,3 @@
 # murtazadesiignhub
-New Repo is creTED
+New Repo is created
 Created BY : Ghulam Murtaza
